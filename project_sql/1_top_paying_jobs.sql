@@ -23,3 +23,13 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 
+/*Here’s a breakdown of the findings from the top 10 data analyst job postings in Singapore:
+
+Bosch Group dominates the top-paying roles, with three Research Scientist positions averaging SGD 149,653/year,
+ suggesting that analyst-adjacent R&D roles in engineering systems command significantly higher salaries.
+
+Most high-paying data analyst roles cluster around the SGD 111K range, offered by firms like ADDX, 2K, FiscalNote,
+ and Adyen, across sectors such as fintech, gaming, ESG, and fraud analytics.
+
+Contract roles can still offer competitive pay—for example, a 12-month fixed-term contract at 2K pays the same as 
+its full-time counterpart, highlighting demand for specialized short-term data talent. */
