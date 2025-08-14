@@ -65,7 +65,7 @@ Here’s a breakdown of the findings from the top 10 data analyst job postings i
 
 - Contract roles can still offer competitive pay: for example, a 12-month fixed-term contract at 2K pays the same as its full-time counterpart, highlighting demand for specialized short-term data talent.
 
-![Top Paying Data Analysts Job in Singapore](assets\Top_10_Data_Analyst_Roles_in_Singapore_by_Average_Yearly_Salary_2023.png)
+![Top 10 Data Analyst Roles in Singapore by Average Yearly Salary 2023](assets/Top_10_Data_Analyst_Roles_in_Singapore_by_Average_Yearly_Salary_2023.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts in Singapore in 2023; ChatGPT generated this graph based on the SQL query results.*
 
 ### 2. Skills required for top-paying data analyst jobs in Singapore
@@ -115,7 +115,7 @@ Tools like Looker, Hadoop, Linux, and PowerPoint appear only once, suggesting ni
 - Tool Diversity:
 There's a mix of backend (e.g., Spark, SQL), visualization (e.g., Tableau, Power BI), cloud (e.g., AWS), and business productivity (e.g., Word, Excel) tools, reflecting the multi-disciplinary nature of data analyst roles.
 
-![Top skills required by top-paying data analysts jobs in Singapore](assets\Top_15_Wanted_Skills_in_Top_10_Data_Analyst_Roles_Singapore.png)
+![Top 15 Wanted Skills in Top 10 Data Analyst Roles Singapore](assets/Top_15_Wanted_Skills_in_Top_10_Data_Analyst_Roles_Singapore.png)
 *Bar graph visualizing the top 15 skills needed by the top 10 data analysts based on salary in Singapore in 2023; ChatGPT generated this graph based on the SQL query results.*
 
 ### 3. Most in-demand skills wanted for data analytics in Singapore
